@@ -1,5 +1,7 @@
 {
     "IDX.aI.enableInlineCompletion": true,
     "IDX.aI.enableCodebaseIndexing": true,
-    "avdmanager.sdkPath": "/home/user/myapp/lib"
+    "avdmanager.sdkPath": "/home/user/myapp/android/sdk",
+    "avdmanager.cmdVersion": "latest"
+
 }
